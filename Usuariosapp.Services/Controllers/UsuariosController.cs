@@ -1,5 +1,9 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Usuariosapp.Services.Models.AtualizarDados;
+using Usuariosapp.Services.Models.Autenticar;
+using Usuariosapp.Services.Models.CriarConta;
+using Usuariosapp.Services.Models.RecuperarSenha;
 
 namespace Usuariosapp.Services.Controllers
 {
@@ -11,21 +15,24 @@ namespace Usuariosapp.Services.Controllers
 
         [Route("criar-conta")]
         [HttpPost]
-        public IActionResult CriarConta()
+        [ProducesResponseType(typeof(CriarContaResponseModel), 201)]
+        public IActionResult CriarConta([FromBody] CriarContaRequestModel model)
         {
             return Ok();
         }
 
         [Route("autenticar")]
         [HttpPost]
-        public IActionResult Autenticar()
+        [ProducesResponseType(typeof(AtualizarDadosResponseModel), 201)]
+        public IActionResult Autenticar([FromBody] AutenticarRequestModel model)
         {
             return Ok();
         }
 
         [Route("recuperar-senha")]
         [HttpPost]
-        public IActionResult RecuperarSenha()
+        [ProducesResponseType(typeof(RecuperarSenhaResponseModel), 201)]
+        public IActionResult RecuperarSenha([FromBody] RecuperarSenhaRequestModel model)
         {
             return Ok();
         }
@@ -36,7 +43,8 @@ namespace Usuariosapp.Services.Controllers
 
         [Route("atualizar-dados")]
         [HttpPut]
-        public IActionResult AtualizarDados()
+        [ProducesResponseType(typeof(AtualizarDadosResponseModel), 201)]
+        public IActionResult AtualizarDados([FromBody] AtualizarDadosRequestModel model)
         {
             return Ok();
         }

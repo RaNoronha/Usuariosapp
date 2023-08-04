@@ -1,4 +1,6 @@
-﻿namespace Usuariosapp.Services.Models.Autenticar
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace Usuariosapp.Services.Models.Autenticar
 {
     public class AutenticarRequestModel
     {
