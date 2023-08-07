@@ -31,3 +31,36 @@ C:\Curso-coti\Usuariosapp\Usuariosapp.Services\obj\Debug\net7.0\refint\Usuariosa
 C:\Curso-coti\Usuariosapp\Usuariosapp.Services\obj\Debug\net7.0\Usuariosapp.Services.pdb
 C:\Curso-coti\Usuariosapp\Usuariosapp.Services\obj\Debug\net7.0\Usuariosapp.Services.genruntimeconfig.cache
 C:\Curso-coti\Usuariosapp\Usuariosapp.Services\obj\Debug\net7.0\ref\Usuariosapp.Services.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\appsettings.Development.json
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\appsettings.json
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\Usuariosapp.Services.exe
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\Usuariosapp.Services.deps.json
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\Usuariosapp.Services.runtimeconfig.json
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\Usuariosapp.Services.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\Usuariosapp.Services.pdb
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\Usuariosapp.Services.csproj.AssemblyReference.cache
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\Usuariosapp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\Usuariosapp.Services.AssemblyInfoInputs.cache
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\Usuariosapp.Services.AssemblyInfo.cs
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\Usuariosapp.Services.csproj.CoreCompileInputs.cache
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\Usuariosapp.Services.MvcApplicationPartsAssemblyInfo.cs
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\Usuariosapp.Services.MvcApplicationPartsAssemblyInfo.cache
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\staticwebassets\msbuild.Usuariosapp.Services.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\staticwebassets\msbuild.build.Usuariosapp.Services.props
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Usuariosapp.Services.props
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Usuariosapp.Services.props
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\staticwebassets.build.json
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\staticwebassets.development.json
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\scopedcss\bundle\Usuariosapp.Services.styles.css
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\Usuariosapp.Services.csproj.CopyComplete
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\Usuariosapp.Services.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\refint\Usuariosapp.Services.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\Usuariosapp.Services.pdb
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\Usuariosapp.Services.genruntimeconfig.cache
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\ref\Usuariosapp.Services.dll

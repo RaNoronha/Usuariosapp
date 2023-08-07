@@ -1,0 +1,17 @@
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\UsuariosApp.Infra.Data\bin\Debug\net7.0\UsuariosApp.Infra.Data.deps.json
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\UsuariosApp.Infra.Data\bin\Debug\net7.0\UsuariosApp.Infra.Data.runtimeconfig.json
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\UsuariosApp.Infra.Data\bin\Debug\net7.0\UsuariosApp.Infra.Data.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\UsuariosApp.Infra.Data\bin\Debug\net7.0\UsuariosApp.Infra.Data.pdb
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\UsuariosApp.Infra.Data\bin\Debug\net7.0\UsuariosApp.Domain.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\UsuariosApp.Infra.Data\bin\Debug\net7.0\UsuariosApp.Domain.pdb
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net7.0\UsuariosApp.Infra.Data.csproj.AssemblyReference.cache
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net7.0\UsuariosApp.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net7.0\UsuariosApp.Infra.Data.AssemblyInfoInputs.cache
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net7.0\UsuariosApp.Infra.Data.AssemblyInfo.cs
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net7.0\UsuariosApp.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net7.0\UsuariosApp.Infra.Data.csproj.CopyComplete
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net7.0\UsuariosApp.Infra.Data.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net7.0\refint\UsuariosApp.Infra.Data.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net7.0\UsuariosApp.Infra.Data.pdb
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net7.0\UsuariosApp.Infra.Data.genruntimeconfig.cache
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net7.0\ref\UsuariosApp.Infra.Data.dll
