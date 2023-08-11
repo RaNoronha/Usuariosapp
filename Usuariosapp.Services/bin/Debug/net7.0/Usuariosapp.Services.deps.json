@@ -12,7 +12,8 @@
           "Swashbuckle.AspNetCore": "6.5.0",
           "UsuariosApp.Aplication": "1.0.0",
           "UsuariosApp.Domain": "1.0.0",
-          "UsuariosApp.Infra.Data": "1.0.0"
+          "UsuariosApp.Infra.Data": "1.0.0",
+          "UsuariosApp.Security": "1.0.0"
         },
         "runtime": {
           "Usuariosapp.Services.dll": {}
@@ -49,6 +50,17 @@
           "lib/netstandard2.0/Azure.Identity.dll": {
             "assemblyVersion": "1.6.0.0",
             "fileVersion": "1.600.22.20503"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Authentication.JwtBearer/7.0.10": {
+        "dependencies": {
+          "Microsoft.IdentityModel.Protocols.OpenIdConnect": "6.21.0"
+        },
+        "runtime": {
+          "lib/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll": {
+            "assemblyVersion": "7.0.10.0",
+            "fileVersion": "7.0.1023.36439"
           }
         }
       },
@@ -633,6 +645,15 @@
         "runtime": {
           "UsuariosApp.Infra.Data.dll": {}
         }
+      },
+      "UsuariosApp.Security/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "7.0.10",
+          "UsuariosApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "UsuariosApp.Security.dll": {}
+        }
       }
     }
   },
@@ -655,6 +676,13 @@
       "sha512": "sha512-EycyMsb6rD2PK9P0SyibFfEhvWWttdrYhyPF4f41uzdB/44yQlV+2Wehxyg489Rj6gbPvSPgbKq0xsHJBhipZA==",
       "path": "azure.identity/1.6.0",
       "hashPath": "azure.identity.1.6.0.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Authentication.JwtBearer/7.0.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8/GWtq034kzrDapCHYbAnnJXIYAJzFcJoXP5OtlbjIWBQBLxEbstRv3N4DJAvlcGUXxy0DmmNVDiSlFAY8HpWw==",
+      "path": "microsoft.aspnetcore.authentication.jwtbearer/7.0.10",
+      "hashPath": "microsoft.aspnetcore.authentication.jwtbearer.7.0.10.nupkg.sha512"
     },
     "Microsoft.AspNetCore.OpenApi/7.0.7": {
       "type": "package",
@@ -1129,6 +1157,11 @@
       "sha512": ""
     },
     "UsuariosApp.Infra.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UsuariosApp.Security/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

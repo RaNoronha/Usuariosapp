@@ -6,28 +6,27 @@ using System.Threading.Tasks;
 using UsuariosApp.Domain.Entities;
 using UsuariosApp.Domain.Helpers;
 using UsuariosApp.Domain.Interfaces.Repositories;
+using UsuariosApp.Domain.Interfaces.Security;
 using UsuariosApp.Domain.Interfaces.Services;
 
 namespace UsuariosApp.Domain.Services
 {
     public class UsuarioDomainService : IUsuarioDomainService
     {
-        #region Atributos
+        #region Injeção de Dependência
 
         private readonly IUsuarioRepository? _usuarioRepository;
         private readonly IHistoricoAtividadeRepository? _historicoAtividadeRepository;
+        private readonly ITokenSecuity? _tokenSecurity;
 
-        #endregion
-
-        #region Método Construtor
-
-        public UsuarioDomainService(IUsuarioRepository? usuarioRepository, IHistoricoAtividadeRepository? historicoAtividadeRepository)
+        public UsuarioDomainService(IUsuarioRepository? usuarioRepository, IHistoricoAtividadeRepository? historicoAtividadeRepository, ITokenSecuity? tokenSecurity)
         {
             _usuarioRepository = usuarioRepository;
-            _historicoAtividadeRepository = historicoAtividadeRepository;
+            _historicoAtividadeRepository = historicoAtividadeRepository;            
+            _tokenSecurity = tokenSecurity;
         }
 
-        #endregion
+        #endregion        
 
         #region Impementação da Interface
 
@@ -56,7 +55,26 @@ namespace UsuariosApp.Domain.Services
 
         public Usuario Autenticar(string email, string senha)
         {
-            throw new NotImplementedException();
+            var usuario = _usuarioRepository?.Get(email, MD5Helper.Encrypt(senha));
+
+            if(usuario == null)
+            {
+                throw new ApplicationException("Usuário não encontrado");
+            }
+
+            var historicoAtividade = new HistoricoAtividade();
+
+            historicoAtividade.Id = Guid.NewGuid();
+            historicoAtividade.Tipo = Enums.TipoAtividade.AUTENTICAÇÃO;
+            historicoAtividade.DataHora = DateTime.Now;
+            historicoAtividade.Descricao = $"Autenticação do usuário {usuario.Nome} realizado com sucesso";
+            historicoAtividade.UsuarioId = usuario.Id;
+
+            _historicoAtividadeRepository.Cadastrar(historicoAtividade);
+
+            usuario.Token = _tokenSecurity?.GerarToken(usuario);
+
+            return usuario;
         }
 
         public Usuario RecuperarSenha(string email)

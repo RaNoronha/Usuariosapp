@@ -51,7 +51,19 @@ namespace Usuariosapp.Services.Controllers
         [ProducesResponseType(typeof(AtualizarDadosResponseModel), 201)]
         public IActionResult Autenticar([FromBody] AutenticarRequestModel model)
         {
-            return Ok();
+            try
+            {
+                var response = _usuarioAppService?.Autenticar(model);
+                return StatusCode(200, response);
+            }
+            catch (ApplicationException e)
+            {
+                return StatusCode(401, new { e.Message });
+            }
+            catch (Exception e)
+            {
+                return StatusCode(500, new { e.Message });
+            }
         }
 
         [Route("recuperar-senha")]

@@ -26,6 +26,8 @@ namespace UsuariosApp.Infra.Data.Mappings
 
             builder.HasIndex(u => u.Email).IsUnique();
 
+            builder.Ignore(u => u.Token);
+
         }
     }
 }

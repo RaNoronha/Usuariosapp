@@ -53,7 +53,18 @@ namespace UsuariosApp.Aplication.Services
 
         public AutenticarResponseModel Autenticar(AutenticarRequestModel model)
         {
-            throw new NotImplementedException();
+            var usuario = _usuarioDomainService?.Autenticar(model.Email, model.Senha);
+
+            var response = new AutenticarResponseModel();
+
+            response.Id = usuario.Id;
+            response.Nome = usuario.Nome;
+            response.Email = usuario.Email;
+            response.Token = usuario.Token;
+            response.HoraAcesso = DateTime.UtcNow;
+            response.HoraExpiracao = DateTime.UtcNow.AddMinutes(60);
+
+            return response;
         }
 
         public RecuperarSenhaResponseModel RecuperarSenha(RecuperarSenhaRequestModel model)

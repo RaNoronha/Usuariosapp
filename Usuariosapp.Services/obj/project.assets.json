@@ -46,6 +46,25 @@
           }
         }
       },
+      "Microsoft.AspNetCore.Authentication.JwtBearer/7.0.10": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.IdentityModel.Protocols.OpenIdConnect": "6.15.1"
+        },
+        "compile": {
+          "lib/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll": {
+            "related": ".xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "Microsoft.AspNetCore.OpenApi/7.0.7": {
         "type": "package",
         "dependencies": {
@@ -1171,6 +1190,20 @@
         "runtime": {
           "bin/placeholder/UsuariosApp.Infra.Data.dll": {}
         }
+      },
+      "UsuariosApp.Security/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "7.0.10",
+          "UsuariosApp.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UsuariosApp.Security.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UsuariosApp.Security.dll": {}
+        }
       }
     }
   },
@@ -1211,6 +1244,21 @@
         "azureicon.png",
         "lib/netstandard2.0/Azure.Identity.dll",
         "lib/netstandard2.0/Azure.Identity.xml"
+      ]
+    },
+    "Microsoft.AspNetCore.Authentication.JwtBearer/7.0.10": {
+      "sha512": "8/GWtq034kzrDapCHYbAnnJXIYAJzFcJoXP5OtlbjIWBQBLxEbstRv3N4DJAvlcGUXxy0DmmNVDiSlFAY8HpWw==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.authentication.jwtbearer/7.0.10",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll",
+        "lib/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.xml",
+        "microsoft.aspnetcore.authentication.jwtbearer.7.0.10.nupkg.sha512",
+        "microsoft.aspnetcore.authentication.jwtbearer.nuspec"
       ]
     },
     "Microsoft.AspNetCore.OpenApi/7.0.7": {
@@ -3680,6 +3728,11 @@
       "type": "project",
       "path": "../UsuariosApp.Infra.Data/UsuariosApp.Infra.Data.csproj",
       "msbuildProject": "../UsuariosApp.Infra.Data/UsuariosApp.Infra.Data.csproj"
+    },
+    "UsuariosApp.Security/1.0.0": {
+      "type": "project",
+      "path": "../UsuariosApp.Security/UsuariosApp.Security.csproj",
+      "msbuildProject": "../UsuariosApp.Security/UsuariosApp.Security.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3688,7 +3741,8 @@
       "Swashbuckle.AspNetCore >= 6.5.0",
       "UsuariosApp.Aplication >= 1.0.0",
       "UsuariosApp.Domain >= 1.0.0",
-      "UsuariosApp.Infra.Data >= 1.0.0"
+      "UsuariosApp.Infra.Data >= 1.0.0",
+      "UsuariosApp.Security >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3726,6 +3780,9 @@
             },
             "C:\\Developer fullstack  - Rafael Noronha\\web\\UsuariosApp\\UsuariosApp.Infra.Data\\UsuariosApp.Infra.Data.csproj": {
               "projectPath": "C:\\Developer fullstack  - Rafael Noronha\\web\\UsuariosApp\\UsuariosApp.Infra.Data\\UsuariosApp.Infra.Data.csproj"
+            },
+            "C:\\Developer fullstack  - Rafael Noronha\\web\\UsuariosApp\\UsuariosApp.Security\\UsuariosApp.Security.csproj": {
+              "projectPath": "C:\\Developer fullstack  - Rafael Noronha\\web\\UsuariosApp\\UsuariosApp.Security\\UsuariosApp.Security.csproj"
             }
           }
         }

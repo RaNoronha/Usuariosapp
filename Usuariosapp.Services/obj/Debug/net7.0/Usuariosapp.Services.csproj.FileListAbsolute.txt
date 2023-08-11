@@ -107,3 +107,7 @@ C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bi
 C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\UsuariosApp.Aplication.pdb
 C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\UsuariosApp.Domain.pdb
 C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\UsuariosApp.Infra.Data.pdb
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\UsuariosApp.Security.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\UsuariosApp.Security.pdb
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\Usuariosapp.Services.MvcApplicationPartsAssemblyInfo.cs

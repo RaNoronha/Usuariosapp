@@ -15,5 +15,6 @@ namespace UsuariosApp.Domain.Entities
         public string? DtHrCriacao { get; set; }
         public string? DtHrAlteracao { get; set; }
         public List<HistoricoAtividade>? Historicos { get; set; }
+        public string? Token { get; set; }
     }
 }

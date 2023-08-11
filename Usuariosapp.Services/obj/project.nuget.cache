@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "VjUDDzcV5v/xfpO+5ScWROEagmM12U+MxKzYD66XUONtIgGfruHhSUptjLiETtAIxo18xbeCGPdLYgdQtwYfGA==",
+  "dgSpecHash": "eVmCPnC9krFE0GzT/TY3HHQzVeDvDD+yn2U1M9q/4F9OKiDkoPQp408y7Vo38csD4mFmIaCmYtE76velUUnUqw==",
   "success": true,
   "projectFilePath": "C:\\Developer fullstack  - Rafael Noronha\\web\\UsuariosApp\\Usuariosapp.Services\\Usuariosapp.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Coti - 11\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Coti - 11\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\Coti - 11\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.10\\microsoft.aspnetcore.authentication.jwtbearer.7.0.10.nupkg.sha512",
     "C:\\Users\\Coti - 11\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.7\\microsoft.aspnetcore.openapi.7.0.7.nupkg.sha512",
     "C:\\Users\\Coti - 11\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Coti - 11\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
