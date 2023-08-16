@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Usuariosapp.Aplication.Models.AtualizarDados;
 using Usuariosapp.Aplication.Models.Autenticar;
@@ -78,6 +79,7 @@ namespace Usuariosapp.Services.Controllers
 
         #region PUT
 
+        [Authorize]
         [Route("atualizar-dados")]
         [HttpPut]
         [ProducesResponseType(typeof(AtualizarDadosResponseModel), 201)]

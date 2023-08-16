@@ -1,4 +1,7 @@
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore.Migrations;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
 using UsuariosApp.Aplication.Interfaces;
 using UsuariosApp.Aplication.Services;
 using UsuariosApp.Domain.Entities;
@@ -8,6 +11,7 @@ using UsuariosApp.Domain.Interfaces.Services;
 using UsuariosApp.Domain.Services;
 using UsuariosApp.Infra.Data.Repositories;
 using UsuariosApp.Security.Services;
+using UsuariosApp.Security.Settings;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -26,6 +30,26 @@ builder.Services.AddTransient<IUsuarioRepository, UsuarioRepository>();
 builder.Services.AddTransient<IHistoricoAtividadeRepository, HistoricoAtividadeRepository>();
 builder.Services.AddTransient<ITokenSecuity, TokenSecurity>();
 
+//Mapear a autenticação do projeto
+builder.Services.AddAuthentication(
+    auth =>
+    {
+        auth.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+        auth.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+    }).AddJwtBearer(
+        bearer =>
+        {
+            bearer.RequireHttpsMetadata = false;
+            bearer.SaveToken = true;
+            bearer.TokenValidationParameters = new TokenValidationParameters
+            {
+                ValidateIssuerSigningKey = true,
+                IssuerSigningKey = new SymmetricSecurityKey(Encoding.ASCII.GetBytes(TokenSettings.ChaveSecreta)),
+                ValidateIssuer = false,
+                ValidateAudience = false
+            };
+        });
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -35,7 +59,9 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+app.UseAuthentication();
 app.UseAuthorization();
+
 
 app.MapControllers();
 
