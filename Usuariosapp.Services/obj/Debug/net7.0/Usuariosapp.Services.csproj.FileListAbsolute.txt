@@ -31,3 +31,130 @@ C:\Curso-coti\Usuariosapp\Usuariosapp.Services\obj\Debug\net7.0\refint\Usuariosa
 C:\Curso-coti\Usuariosapp\Usuariosapp.Services\obj\Debug\net7.0\Usuariosapp.Services.pdb
 C:\Curso-coti\Usuariosapp\Usuariosapp.Services\obj\Debug\net7.0\Usuariosapp.Services.genruntimeconfig.cache
 C:\Curso-coti\Usuariosapp\Usuariosapp.Services\obj\Debug\net7.0\ref\Usuariosapp.Services.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\appsettings.Development.json
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\appsettings.json
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\Usuariosapp.Services.exe
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\Usuariosapp.Services.deps.json
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\Usuariosapp.Services.runtimeconfig.json
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\Usuariosapp.Services.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\Usuariosapp.Services.pdb
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\Usuariosapp.Services.csproj.AssemblyReference.cache
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\Usuariosapp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\Usuariosapp.Services.AssemblyInfoInputs.cache
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\Usuariosapp.Services.AssemblyInfo.cs
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\Usuariosapp.Services.csproj.CoreCompileInputs.cache
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\Usuariosapp.Services.MvcApplicationPartsAssemblyInfo.cache
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\staticwebassets\msbuild.Usuariosapp.Services.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\staticwebassets\msbuild.build.Usuariosapp.Services.props
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Usuariosapp.Services.props
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Usuariosapp.Services.props
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\staticwebassets.build.json
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\staticwebassets.development.json
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\scopedcss\bundle\Usuariosapp.Services.styles.css
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\Usuariosapp.Services.csproj.CopyComplete
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\Usuariosapp.Services.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\refint\Usuariosapp.Services.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\Usuariosapp.Services.pdb
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\Usuariosapp.Services.genruntimeconfig.cache
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\ref\Usuariosapp.Services.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\Azure.Core.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\Azure.Identity.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\UsuariosApp.Aplication.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\UsuariosApp.Domain.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\UsuariosApp.Infra.Data.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\UsuariosApp.Aplication.pdb
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\UsuariosApp.Domain.pdb
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\UsuariosApp.Infra.Data.pdb
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\UsuariosApp.Security.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\bin\Debug\net7.0\UsuariosApp.Security.pdb
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\Usuariosapp.Services\obj\Debug\net7.0\Usuariosapp.Services.MvcApplicationPartsAssemblyInfo.cs
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\Azure.Core.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\Azure.Identity.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\UsuariosApp.Aplication.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\UsuariosApp.Domain.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\UsuariosApp.Infra.Data.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\UsuariosApp.Security.dll
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\UsuariosApp.Aplication.pdb
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\UsuariosApp.Domain.pdb
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\UsuariosApp.Infra.Data.pdb
+C:\Curso-coti\Usuariosapp\Usuariosapp.Services\bin\Debug\net7.0\UsuariosApp.Security.pdb

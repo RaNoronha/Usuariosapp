@@ -1,0 +1,30 @@
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\UsuariosApp.Security\bin\Debug\net7.0\UsuariosApp.Security.deps.json
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\UsuariosApp.Security\bin\Debug\net7.0\UsuariosApp.Security.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\UsuariosApp.Security\bin\Debug\net7.0\UsuariosApp.Security.pdb
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\UsuariosApp.Security\bin\Debug\net7.0\UsuariosApp.Domain.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\UsuariosApp.Security\bin\Debug\net7.0\UsuariosApp.Domain.pdb
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\UsuariosApp.Security\obj\Debug\net7.0\UsuariosApp.Security.csproj.AssemblyReference.cache
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\UsuariosApp.Security\obj\Debug\net7.0\UsuariosApp.Security.GeneratedMSBuildEditorConfig.editorconfig
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\UsuariosApp.Security\obj\Debug\net7.0\UsuariosApp.Security.AssemblyInfoInputs.cache
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\UsuariosApp.Security\obj\Debug\net7.0\UsuariosApp.Security.AssemblyInfo.cs
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\UsuariosApp.Security\obj\Debug\net7.0\UsuariosApp.Security.csproj.CoreCompileInputs.cache
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\UsuariosApp.Security\obj\Debug\net7.0\UsuariosApp.Security.csproj.CopyComplete
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\UsuariosApp.Security\obj\Debug\net7.0\UsuariosApp.Security.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\UsuariosApp.Security\obj\Debug\net7.0\refint\UsuariosApp.Security.dll
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\UsuariosApp.Security\obj\Debug\net7.0\UsuariosApp.Security.pdb
+C:\Developer fullstack  - Rafael Noronha\web\UsuariosApp\UsuariosApp.Security\obj\Debug\net7.0\ref\UsuariosApp.Security.dll
+C:\Curso-coti\Usuariosapp\UsuariosApp.Security\bin\Debug\net7.0\UsuariosApp.Security.deps.json
+C:\Curso-coti\Usuariosapp\UsuariosApp.Security\bin\Debug\net7.0\UsuariosApp.Security.dll
+C:\Curso-coti\Usuariosapp\UsuariosApp.Security\bin\Debug\net7.0\UsuariosApp.Security.pdb
+C:\Curso-coti\Usuariosapp\UsuariosApp.Security\bin\Debug\net7.0\UsuariosApp.Domain.dll
+C:\Curso-coti\Usuariosapp\UsuariosApp.Security\bin\Debug\net7.0\UsuariosApp.Domain.pdb
+C:\Curso-coti\Usuariosapp\UsuariosApp.Security\obj\Debug\net7.0\UsuariosApp.Security.csproj.AssemblyReference.cache
+C:\Curso-coti\Usuariosapp\UsuariosApp.Security\obj\Debug\net7.0\UsuariosApp.Security.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso-coti\Usuariosapp\UsuariosApp.Security\obj\Debug\net7.0\UsuariosApp.Security.AssemblyInfoInputs.cache
+C:\Curso-coti\Usuariosapp\UsuariosApp.Security\obj\Debug\net7.0\UsuariosApp.Security.AssemblyInfo.cs
+C:\Curso-coti\Usuariosapp\UsuariosApp.Security\obj\Debug\net7.0\UsuariosApp.Security.csproj.CoreCompileInputs.cache
+C:\Curso-coti\Usuariosapp\UsuariosApp.Security\obj\Debug\net7.0\UsuariosApp.Security.csproj.CopyComplete
+C:\Curso-coti\Usuariosapp\UsuariosApp.Security\obj\Debug\net7.0\UsuariosApp.Security.dll
+C:\Curso-coti\Usuariosapp\UsuariosApp.Security\obj\Debug\net7.0\refint\UsuariosApp.Security.dll
+C:\Curso-coti\Usuariosapp\UsuariosApp.Security\obj\Debug\net7.0\UsuariosApp.Security.pdb
+C:\Curso-coti\Usuariosapp\UsuariosApp.Security\obj\Debug\net7.0\ref\UsuariosApp.Security.dll
