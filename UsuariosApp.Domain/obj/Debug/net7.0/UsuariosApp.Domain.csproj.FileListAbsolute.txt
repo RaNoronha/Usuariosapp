@@ -22,3 +22,14 @@ C:\Curso-coti\Usuariosapp\UsuariosApp.Domain\obj\Debug\net7.0\UsuariosApp.Domain
 C:\Curso-coti\Usuariosapp\UsuariosApp.Domain\obj\Debug\net7.0\refint\UsuariosApp.Domain.dll
 C:\Curso-coti\Usuariosapp\UsuariosApp.Domain\obj\Debug\net7.0\UsuariosApp.Domain.pdb
 C:\Curso-coti\Usuariosapp\UsuariosApp.Domain\obj\Debug\net7.0\ref\UsuariosApp.Domain.dll
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Domain\bin\Debug\net7.0\UsuariosApp.Domain.deps.json
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Domain\bin\Debug\net7.0\UsuariosApp.Domain.dll
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Domain\bin\Debug\net7.0\UsuariosApp.Domain.pdb
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Domain\obj\Debug\net7.0\UsuariosApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Domain\obj\Debug\net7.0\UsuariosApp.Domain.AssemblyInfoInputs.cache
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Domain\obj\Debug\net7.0\UsuariosApp.Domain.AssemblyInfo.cs
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Domain\obj\Debug\net7.0\UsuariosApp.Domain.csproj.CoreCompileInputs.cache
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Domain\obj\Debug\net7.0\UsuariosApp.Domain.dll
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Domain\obj\Debug\net7.0\refint\UsuariosApp.Domain.dll
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Domain\obj\Debug\net7.0\UsuariosApp.Domain.pdb
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Domain\obj\Debug\net7.0\ref\UsuariosApp.Domain.dll

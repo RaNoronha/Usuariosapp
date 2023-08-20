@@ -32,3 +32,20 @@ C:\Curso-coti\Usuariosapp\UsuariosApp.Infra.Data\obj\Debug\net7.0\refint\Usuario
 C:\Curso-coti\Usuariosapp\UsuariosApp.Infra.Data\obj\Debug\net7.0\UsuariosApp.Infra.Data.pdb
 C:\Curso-coti\Usuariosapp\UsuariosApp.Infra.Data\obj\Debug\net7.0\UsuariosApp.Infra.Data.genruntimeconfig.cache
 C:\Curso-coti\Usuariosapp\UsuariosApp.Infra.Data\obj\Debug\net7.0\ref\UsuariosApp.Infra.Data.dll
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Infra.Data\bin\Debug\net7.0\UsuariosApp.Infra.Data.deps.json
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Infra.Data\bin\Debug\net7.0\UsuariosApp.Infra.Data.runtimeconfig.json
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Infra.Data\bin\Debug\net7.0\UsuariosApp.Infra.Data.dll
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Infra.Data\bin\Debug\net7.0\UsuariosApp.Infra.Data.pdb
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Infra.Data\bin\Debug\net7.0\UsuariosApp.Domain.dll
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Infra.Data\bin\Debug\net7.0\UsuariosApp.Domain.pdb
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Infra.Data\obj\Debug\net7.0\UsuariosApp.Infra.Data.csproj.AssemblyReference.cache
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Infra.Data\obj\Debug\net7.0\UsuariosApp.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Infra.Data\obj\Debug\net7.0\UsuariosApp.Infra.Data.AssemblyInfoInputs.cache
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Infra.Data\obj\Debug\net7.0\UsuariosApp.Infra.Data.AssemblyInfo.cs
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Infra.Data\obj\Debug\net7.0\UsuariosApp.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Infra.Data\obj\Debug\net7.0\UsuariosApp.Infra.Data.csproj.CopyComplete
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Infra.Data\obj\Debug\net7.0\UsuariosApp.Infra.Data.dll
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Infra.Data\obj\Debug\net7.0\refint\UsuariosApp.Infra.Data.dll
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Infra.Data\obj\Debug\net7.0\UsuariosApp.Infra.Data.pdb
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Infra.Data\obj\Debug\net7.0\UsuariosApp.Infra.Data.genruntimeconfig.cache
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Infra.Data\obj\Debug\net7.0\ref\UsuariosApp.Infra.Data.dll

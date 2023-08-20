@@ -3746,23 +3746,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Luciene Noronha\\.nuget\\packages\\": {},
+    "C:\\Users\\Rafael Azevedo\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Curso-coti\\Usuariosapp\\Usuariosapp.Services\\Usuariosapp.Services.csproj",
+      "projectUniqueName": "D:\\Curso coti\\Programas\\Usuarioapp\\Usuariosapp.Services\\Usuariosapp.Services.csproj",
       "projectName": "Usuariosapp.Services",
-      "projectPath": "C:\\Curso-coti\\Usuariosapp\\Usuariosapp.Services\\Usuariosapp.Services.csproj",
-      "packagesPath": "C:\\Users\\Luciene Noronha\\.nuget\\packages\\",
-      "outputPath": "C:\\Curso-coti\\Usuariosapp\\Usuariosapp.Services\\obj\\",
+      "projectPath": "D:\\Curso coti\\Programas\\Usuarioapp\\Usuariosapp.Services\\Usuariosapp.Services.csproj",
+      "packagesPath": "C:\\Users\\Rafael Azevedo\\.nuget\\packages\\",
+      "outputPath": "D:\\Curso coti\\Programas\\Usuarioapp\\Usuariosapp.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Luciene Noronha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Rafael Azevedo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3771,25 +3771,23 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Curso-coti\\Usuariosapp\\UsuariosApp.Aplication\\UsuariosApp.Aplication.csproj": {
-              "projectPath": "C:\\Curso-coti\\Usuariosapp\\UsuariosApp.Aplication\\UsuariosApp.Aplication.csproj"
+            "D:\\Curso coti\\Programas\\Usuarioapp\\UsuariosApp.Aplication\\UsuariosApp.Aplication.csproj": {
+              "projectPath": "D:\\Curso coti\\Programas\\Usuarioapp\\UsuariosApp.Aplication\\UsuariosApp.Aplication.csproj"
             },
-            "C:\\Curso-coti\\Usuariosapp\\UsuariosApp.Domain\\UsuariosApp.Domain.csproj": {
-              "projectPath": "C:\\Curso-coti\\Usuariosapp\\UsuariosApp.Domain\\UsuariosApp.Domain.csproj"
+            "D:\\Curso coti\\Programas\\Usuarioapp\\UsuariosApp.Domain\\UsuariosApp.Domain.csproj": {
+              "projectPath": "D:\\Curso coti\\Programas\\Usuarioapp\\UsuariosApp.Domain\\UsuariosApp.Domain.csproj"
             },
-            "C:\\Curso-coti\\Usuariosapp\\UsuariosApp.Infra.Data\\UsuariosApp.Infra.Data.csproj": {
-              "projectPath": "C:\\Curso-coti\\Usuariosapp\\UsuariosApp.Infra.Data\\UsuariosApp.Infra.Data.csproj"
+            "D:\\Curso coti\\Programas\\Usuarioapp\\UsuariosApp.Infra.Data\\UsuariosApp.Infra.Data.csproj": {
+              "projectPath": "D:\\Curso coti\\Programas\\Usuarioapp\\UsuariosApp.Infra.Data\\UsuariosApp.Infra.Data.csproj"
             },
-            "C:\\Curso-coti\\Usuariosapp\\UsuariosApp.Security\\UsuariosApp.Security.csproj": {
-              "projectPath": "C:\\Curso-coti\\Usuariosapp\\UsuariosApp.Security\\UsuariosApp.Security.csproj"
+            "D:\\Curso coti\\Programas\\Usuarioapp\\UsuariosApp.Security\\UsuariosApp.Security.csproj": {
+              "projectPath": "D:\\Curso coti\\Programas\\Usuarioapp\\UsuariosApp.Security\\UsuariosApp.Security.csproj"
             }
           }
         }
@@ -3832,7 +3830,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Curso-coti\\Usuariosapp\\UsuariosApp.Domain\\UsuariosApp.Domain.csproj": {}
+    "D:\\Curso coti\\Programas\\Usuarioapp\\UsuariosApp.Domain\\UsuariosApp.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Curso-coti\\Usuariosapp\\UsuariosApp.Domain\\UsuariosApp.Domain.csproj": {
+    "D:\\Curso coti\\Programas\\Usuarioapp\\UsuariosApp.Domain\\UsuariosApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Curso-coti\\Usuariosapp\\UsuariosApp.Domain\\UsuariosApp.Domain.csproj",
+        "projectUniqueName": "D:\\Curso coti\\Programas\\Usuarioapp\\UsuariosApp.Domain\\UsuariosApp.Domain.csproj",
         "projectName": "UsuariosApp.Domain",
-        "projectPath": "C:\\Curso-coti\\Usuariosapp\\UsuariosApp.Domain\\UsuariosApp.Domain.csproj",
-        "packagesPath": "C:\\Users\\Luciene Noronha\\.nuget\\packages\\",
-        "outputPath": "C:\\Curso-coti\\Usuariosapp\\UsuariosApp.Domain\\obj\\",
+        "projectPath": "D:\\Curso coti\\Programas\\Usuarioapp\\UsuariosApp.Domain\\UsuariosApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\Rafael Azevedo\\.nuget\\packages\\",
+        "outputPath": "D:\\Curso coti\\Programas\\Usuarioapp\\UsuariosApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Luciene Noronha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rafael Azevedo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

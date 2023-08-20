@@ -28,3 +28,18 @@ C:\Curso-coti\Usuariosapp\UsuariosApp.Security\obj\Debug\net7.0\UsuariosApp.Secu
 C:\Curso-coti\Usuariosapp\UsuariosApp.Security\obj\Debug\net7.0\refint\UsuariosApp.Security.dll
 C:\Curso-coti\Usuariosapp\UsuariosApp.Security\obj\Debug\net7.0\UsuariosApp.Security.pdb
 C:\Curso-coti\Usuariosapp\UsuariosApp.Security\obj\Debug\net7.0\ref\UsuariosApp.Security.dll
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Security\bin\Debug\net7.0\UsuariosApp.Security.deps.json
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Security\bin\Debug\net7.0\UsuariosApp.Security.dll
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Security\bin\Debug\net7.0\UsuariosApp.Security.pdb
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Security\bin\Debug\net7.0\UsuariosApp.Domain.dll
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Security\bin\Debug\net7.0\UsuariosApp.Domain.pdb
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Security\obj\Debug\net7.0\UsuariosApp.Security.csproj.AssemblyReference.cache
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Security\obj\Debug\net7.0\UsuariosApp.Security.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Security\obj\Debug\net7.0\UsuariosApp.Security.AssemblyInfoInputs.cache
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Security\obj\Debug\net7.0\UsuariosApp.Security.AssemblyInfo.cs
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Security\obj\Debug\net7.0\UsuariosApp.Security.csproj.CoreCompileInputs.cache
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Security\obj\Debug\net7.0\UsuariosApp.Security.csproj.CopyComplete
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Security\obj\Debug\net7.0\UsuariosApp.Security.dll
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Security\obj\Debug\net7.0\refint\UsuariosApp.Security.dll
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Security\obj\Debug\net7.0\UsuariosApp.Security.pdb
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Security\obj\Debug\net7.0\ref\UsuariosApp.Security.dll

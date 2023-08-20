@@ -28,3 +28,18 @@ C:\Curso-coti\Usuariosapp\UsuariosApp.Aplication\obj\Debug\net7.0\UsuariosApp.Ap
 C:\Curso-coti\Usuariosapp\UsuariosApp.Aplication\obj\Debug\net7.0\refint\UsuariosApp.Aplication.dll
 C:\Curso-coti\Usuariosapp\UsuariosApp.Aplication\obj\Debug\net7.0\UsuariosApp.Aplication.pdb
 C:\Curso-coti\Usuariosapp\UsuariosApp.Aplication\obj\Debug\net7.0\ref\UsuariosApp.Aplication.dll
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Aplication\bin\Debug\net7.0\UsuariosApp.Aplication.deps.json
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Aplication\bin\Debug\net7.0\UsuariosApp.Aplication.dll
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Aplication\bin\Debug\net7.0\UsuariosApp.Aplication.pdb
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Aplication\bin\Debug\net7.0\UsuariosApp.Domain.dll
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Aplication\bin\Debug\net7.0\UsuariosApp.Domain.pdb
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Aplication\obj\Debug\net7.0\UsuariosApp.Aplication.csproj.AssemblyReference.cache
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Aplication\obj\Debug\net7.0\UsuariosApp.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Aplication\obj\Debug\net7.0\UsuariosApp.Aplication.AssemblyInfoInputs.cache
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Aplication\obj\Debug\net7.0\UsuariosApp.Aplication.AssemblyInfo.cs
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Aplication\obj\Debug\net7.0\UsuariosApp.Aplication.csproj.CoreCompileInputs.cache
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Aplication\obj\Debug\net7.0\UsuariosApp.Aplication.csproj.CopyComplete
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Aplication\obj\Debug\net7.0\UsuariosApp.Aplication.dll
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Aplication\obj\Debug\net7.0\refint\UsuariosApp.Aplication.dll
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Aplication\obj\Debug\net7.0\UsuariosApp.Aplication.pdb
+D:\Curso coti\Programas\Usuarioapp\UsuariosApp.Aplication\obj\Debug\net7.0\ref\UsuariosApp.Aplication.dll
