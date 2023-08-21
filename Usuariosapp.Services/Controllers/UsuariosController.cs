@@ -72,7 +72,19 @@ namespace Usuariosapp.Services.Controllers
         [ProducesResponseType(typeof(RecuperarSenhaResponseModel), 201)]
         public IActionResult RecuperarSenha([FromBody] RecuperarSenhaRequestModel model)
         {
-            return Ok();
+            try
+            {
+                var response = _usuarioAppService.RecuperarSenha(model);
+                return StatusCode(200, response);
+            }
+            catch (ApplicationException e)
+            {
+                return StatusCode(400, new { e.Message });
+            }
+            catch (Exception e)
+            {
+                return StatusCode(500, new { e.Message });
+            }
         }
 
         #endregion

@@ -5,11 +5,13 @@ using System.Text;
 using UsuariosApp.Aplication.Interfaces;
 using UsuariosApp.Aplication.Services;
 using UsuariosApp.Domain.Entities;
+using UsuariosApp.Domain.Interfaces.Messages;
 using UsuariosApp.Domain.Interfaces.Repositories;
 using UsuariosApp.Domain.Interfaces.Security;
 using UsuariosApp.Domain.Interfaces.Services;
 using UsuariosApp.Domain.Services;
 using UsuariosApp.Infra.Data.Repositories;
+using UsuariosApp.Messages.Services;
 using UsuariosApp.Security.Services;
 using UsuariosApp.Security.Settings;
 
@@ -29,6 +31,8 @@ builder.Services.AddTransient<IUsuarioDomainService, UsuarioDomainService>();
 builder.Services.AddTransient<IUsuarioRepository, UsuarioRepository>();
 builder.Services.AddTransient<IHistoricoAtividadeRepository, HistoricoAtividadeRepository>();
 builder.Services.AddTransient<ITokenSecuity, TokenSecurity>();
+builder.Services.AddTransient<IUsuarioMessage, UsuarioMessageProducer>();
+builder.Services.AddTransient<UsuarioMessageConsumer>();
 
 //Mapear a autenticação do projeto
 builder.Services.AddAuthentication(

@@ -4,6 +4,79 @@
     "D:\\Curso coti\\Programas\\Usuarioapp\\Usuariosapp.Services\\Usuariosapp.Services.csproj": {}
   },
   "projects": {
+    "D:\\Curso coti\\Programas\\Usuarioapp\\UsuarioApp.Mesages\\UsuariosApp.Messages.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Curso coti\\Programas\\Usuarioapp\\UsuarioApp.Mesages\\UsuariosApp.Messages.csproj",
+        "projectName": "UsuariosApp.Messages",
+        "projectPath": "D:\\Curso coti\\Programas\\Usuarioapp\\UsuarioApp.Mesages\\UsuariosApp.Messages.csproj",
+        "packagesPath": "C:\\Users\\Rafael Azevedo\\.nuget\\packages\\",
+        "outputPath": "D:\\Curso coti\\Programas\\Usuarioapp\\UsuarioApp.Mesages\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rafael Azevedo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Curso coti\\Programas\\Usuarioapp\\UsuariosApp.Domain\\UsuariosApp.Domain.csproj": {
+                "projectPath": "D:\\Curso coti\\Programas\\Usuarioapp\\UsuariosApp.Domain\\UsuariosApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "RabbitMQ.Client.Core.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "D:\\Curso coti\\Programas\\Usuarioapp\\UsuariosApp.Aplication\\UsuariosApp.Aplication.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -308,6 +381,9 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
+              "D:\\Curso coti\\Programas\\Usuarioapp\\UsuarioApp.Mesages\\UsuariosApp.Messages.csproj": {
+                "projectPath": "D:\\Curso coti\\Programas\\Usuarioapp\\UsuarioApp.Mesages\\UsuariosApp.Messages.csproj"
+              },
               "D:\\Curso coti\\Programas\\Usuarioapp\\UsuariosApp.Aplication\\UsuariosApp.Aplication.csproj": {
                 "projectPath": "D:\\Curso coti\\Programas\\Usuarioapp\\UsuariosApp.Aplication\\UsuariosApp.Aplication.csproj"
               },

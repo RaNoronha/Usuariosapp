@@ -238,3 +238,8 @@ D:\Curso coti\Programas\Usuarioapp\Usuariosapp.Services\obj\Debug\net7.0\refint\
 D:\Curso coti\Programas\Usuarioapp\Usuariosapp.Services\obj\Debug\net7.0\Usuariosapp.Services.pdb
 D:\Curso coti\Programas\Usuarioapp\Usuariosapp.Services\obj\Debug\net7.0\Usuariosapp.Services.genruntimeconfig.cache
 D:\Curso coti\Programas\Usuarioapp\Usuariosapp.Services\obj\Debug\net7.0\ref\Usuariosapp.Services.dll
+D:\Curso coti\Programas\Usuarioapp\Usuariosapp.Services\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Curso coti\Programas\Usuarioapp\Usuariosapp.Services\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\Curso coti\Programas\Usuarioapp\Usuariosapp.Services\bin\Debug\net7.0\RabbitMQ.Client.Core.DependencyInjection.dll
+D:\Curso coti\Programas\Usuarioapp\Usuariosapp.Services\bin\Debug\net7.0\UsuariosApp.Messages.dll
+D:\Curso coti\Programas\Usuarioapp\Usuariosapp.Services\bin\Debug\net7.0\UsuariosApp.Messages.pdb
