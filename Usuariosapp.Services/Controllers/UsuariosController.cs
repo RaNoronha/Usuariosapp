@@ -97,7 +97,21 @@ namespace Usuariosapp.Services.Controllers
         [ProducesResponseType(typeof(AtualizarDadosResponseModel), 201)]
         public IActionResult AtualizarDados([FromBody] AtualizarDadosRequestModel model)
         {
-            return Ok();
+            try
+            {
+                var email = User.Identity.Name;
+
+                var response = _usuarioAppService.AtualizarDados(model, email);
+                return StatusCode(200, response);
+            }
+            catch (ApplicationException e)
+            {
+                return StatusCode(400, new { e.Message });
+            }
+            catch (Exception e)
+            {
+                return StatusCode(500, new { e.Message });
+            }
         }
 
         #endregion

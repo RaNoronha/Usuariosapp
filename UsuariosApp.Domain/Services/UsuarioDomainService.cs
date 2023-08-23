@@ -123,9 +123,39 @@ namespace UsuariosApp.Domain.Services
             return usuario;
         }
 
-        public bool AtualizarDados(Guid? id, string nome, string senha)
+        public Usuario AtualizarDados(string email, string nome, string senha)
         {
-            throw new NotImplementedException();
+            var usuario = _usuarioRepository.Get(email);
+
+            if (usuario == null)
+            {
+                throw new ApplicationException("Usuário não encontrado.");
+            }
+
+            var dadosAtualizados = false;
+
+            if (!string.IsNullOrEmpty(nome))
+            {
+                usuario.Nome = nome;
+                dadosAtualizados = true;
+            }
+
+            if(!string.IsNullOrEmpty(senha)) 
+            {
+                usuario.Senha = MD5Helper.Encrypt(senha);
+                dadosAtualizados = true;
+            }
+
+            if(dadosAtualizados == true)
+            {
+                _usuarioRepository.Atualizar(usuario);
+            }
+            else
+            {
+                throw new ApplicationException("Informe pelo menos um campo para ser atualizado.");
+            }
+
+            return usuario;
         }
 
         #endregion

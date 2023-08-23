@@ -81,9 +81,18 @@ namespace UsuariosApp.Aplication.Services
             return response;
         }
 
-        public AtualizarDadosResponseModel AtualizarDados(AtualizarDadosRequestModel model)
+        public AtualizarDadosResponseModel AtualizarDados(AtualizarDadosRequestModel model, string email)
         {
-            throw new NotImplementedException();
+            var usuario = _usuarioDomainService.AtualizarDados(email, model.Nome, model.Senha);
+
+            var response = new AtualizarDadosResponseModel();
+
+            response.Id = usuario.Id;
+            response.Nome = usuario.Nome;
+            response.Email = usuario.Email;
+            response.HoraAlteracao = DateTime.Now;
+
+            return response;
         }
 
         #endregion

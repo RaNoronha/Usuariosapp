@@ -12,7 +12,7 @@ namespace UsuariosApp.Domain.Interfaces.Services
         void CriarConta(Usuario usuario);
         Usuario Autenticar(string email, string senha);
         Usuario RecuperarSenha(string email);
-        bool AtualizarDados(Guid? id, string nome, string senha);
+        Usuario AtualizarDados(string email, string nome, string senha);
 
     }
 }

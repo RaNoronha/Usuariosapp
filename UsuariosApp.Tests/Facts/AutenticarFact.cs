@@ -1,6 +1,7 @@
 ﻿using Azure.Core;
 using Bogus;
 using FluentAssertions;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,7 +16,7 @@ namespace UsuariosApp.Tests.Facts
     public class AutenticarFact
     {
         [Fact]
-        public void Autenticar_Ok()
+        public AutenticarResponseModel Autenticar_Ok()
         {
             var criarContaFact = new CriarContaFact();
             var usuario = criarContaFact.CriarConta_Ok();
@@ -29,6 +30,8 @@ namespace UsuariosApp.Tests.Facts
             var response = TestHelper.CreateClient().PostAsync(caminho, TestHelper.CreateContent(request)).Result;
 
             response.StatusCode.Should().Be(System.Net.HttpStatusCode.OK);
+
+            return JsonConvert.DeserializeObject<AutenticarResponseModel>(response.Content.ReadAsStringAsync().Result);
         }
 
         [Fact]

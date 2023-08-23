@@ -15,6 +15,6 @@ namespace UsuariosApp.Aplication.Interfaces
         CriarContaResponseModel CriarConta(CriarContaRequestModel model);
         AutenticarResponseModel Autenticar(AutenticarRequestModel model);
         RecuperarSenhaResponseModel RecuperarSenha(RecuperarSenhaRequestModel model);
-        AtualizarDadosResponseModel AtualizarDados(AtualizarDadosRequestModel model);
+        AtualizarDadosResponseModel AtualizarDados(AtualizarDadosRequestModel model, string email);
     }
 }
