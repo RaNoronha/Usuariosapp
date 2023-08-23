@@ -32,7 +32,7 @@ builder.Services.AddTransient<IUsuarioRepository, UsuarioRepository>();
 builder.Services.AddTransient<IHistoricoAtividadeRepository, HistoricoAtividadeRepository>();
 builder.Services.AddTransient<ITokenSecuity, TokenSecurity>();
 builder.Services.AddTransient<IUsuarioMessage, UsuarioMessageProducer>();
-builder.Services.AddTransient<UsuarioMessageConsumer>();
+builder.Services.AddHostedService<UsuarioMessageConsumer>();
 
 //Mapear a autenticação do projeto
 builder.Services.AddAuthentication(

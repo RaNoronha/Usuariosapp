@@ -24,6 +24,7 @@ namespace UsuariosApp.Messages.Services
         public UsuarioMessageConsumer(IServiceProvider? serviceProvider)
         {
             _serviceProvider = serviceProvider;
+            _rabbitMQSettings = new RabbitMQSettings(); 
 
             var connectionFactory = new ConnectionFactory();
             connectionFactory.Uri = new Uri(_rabbitMQSettings.Caminho);
