@@ -35,13 +35,13 @@ namespace Usuariosapp.Services.Controllers
             {
                 var response = _usuarioAppService?.CriarConta(model);
                 return StatusCode(201, response);
-                
+
             }
-            catch(ApplicationException e)
+            catch (ApplicationException e)
             {
                 return StatusCode(400, new { e.Message });
             }
-            catch(Exception e)
+            catch (Exception e)
             {
                 return StatusCode(500, new { e.Message });
             }

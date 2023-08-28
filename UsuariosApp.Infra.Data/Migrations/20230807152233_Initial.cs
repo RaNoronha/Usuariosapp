@@ -19,8 +19,8 @@ namespace UsuariosApp.Infra.Data.Migrations
                     NOME = table.Column<string>(type: "nvarchar(150)", maxLength: 150, nullable: false),
                     EMAIL = table.Column<string>(type: "nvarchar(100)", maxLength: 100, nullable: false),
                     SENHA = table.Column<string>(type: "nvarchar(40)", maxLength: 40, nullable: false),
-                    DTHRCRIACAO = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    DTHRALTERACAO = table.Column<string>(type: "nvarchar(max)", nullable: true)
+                    DTHRCRIACAO = table.Column<string>(type: "datetime2", nullable: true),
+                    DTHRALTERACAO = table.Column<string>(type: "datetime2", nullable: true)
                 },
                 constraints: table =>
                 {

@@ -36,8 +36,8 @@ namespace UsuariosApp.Aplication.Services
             usuario.Nome = model.Nome;
             usuario.Email = model.Email;
             usuario.Senha = model.Senha;
-            usuario.DtHrCriacao = DateTime.Now.ToString("dd/MM/yyyy");
-            usuario.DtHrAlteracao = DateTime.Now.ToString("dd/MM/yyyy");
+            usuario.DtHrCriacao = DateTime.Now;
+            usuario.DtHrAlteracao = DateTime.Now;
 
             _usuarioDomainService?.CriarConta(usuario);
 
@@ -46,7 +46,7 @@ namespace UsuariosApp.Aplication.Services
             response.Id = usuario.Id;
             response.Nome = usuario.Nome;
             response.Email = usuario.Email;
-            response.DataHoraCriacao = DateTime.Parse(usuario.DtHrCriacao);
+            response.DataHoraCriacao = usuario.DtHrCriacao;
 
             return response;
         }
